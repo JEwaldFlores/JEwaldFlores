@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Jannely Ewald 
 
-<!--
-**JEwaldFlores/JEwaldFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jannelyewald@hotmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Developer | Especialización **Backend**  
+📍 México  
+
+---
+## 🚀 Tecnologías 
+- **Lenguajes:** JavaScript, TypeScript  
+- **Backend:** Node.js, NestJS, TypeORM, PostgreSQL  
+- **Frontend:** React, Next.js 
+- **Autenticación & Seguridad:** JWT, Guards (Roles, Auth)  
+- **Servicios y APIs:** SendGrid (emails), Stripe (pagos), Google Maps API  
+- **Automatización:** Cron Jobs (recordatorios y notificaciones)  
+- **DevOps & Herramientas:** Git, GitHub, Railway, Vercel, Neon DB  
