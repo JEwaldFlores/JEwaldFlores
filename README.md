@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jannely Ewald 
 
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jannelyewald@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jannelyewald@gmail.com)
 
 
 💻 Full Stack Developer | Especialización **Backend**  
