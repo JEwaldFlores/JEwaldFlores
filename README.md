@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer — Especialización en <strong>Backend</strong></h3>
 <p align="center">📍 México</p>
 
-<hr/>
+
 
 ## 📫 Contacto
 <p align="center">
@@ -16,7 +16,7 @@
   &nbsp;
 </p>
 
-<hr/>
+
 
 ## 🚀 Tecnologías
 <p align="center">
@@ -29,22 +29,16 @@
   <img src="https://skillicons.dev/icons?i=vercel,railway,figma,stripe&perline=8" alt="stack-3"/>
 </p>
 
-> *Nota:* solo se listan tecnologías con icono disponible para evitar “espacios en negro” (por eso no aparecen TypeORM, SendGrid, Google Maps API, JWT, Neon DB, etc.).
 
-<hr/>
+
 
 ## ⚡ Sobre mí
-- Me apasiona construir **APIs seguras y escalables**.
-- Experta en **NestJS**, **Node.js** y **PostgreSQL**; manejo **React/Next.js** en frontend.
+- Construir **APIs seguras y escalables**.
+- Dominio en **NestJS**, **Node.js** y **PostgreSQL**; manejo **React/Next.js** en frontend.
 - Autenticación con **JWT**, **roles/guards** y buenas prácticas de seguridad.
 - Automatizaciones con **cron jobs**, emails transaccionales y **pagos con Stripe**.
-- Deploys en **Vercel**, **Railway** y bases de datos gestionadas.
-
-<hr/>
+- Deploys en **Vercel**  y bases de datos gestionadas.
 
 
----
 
-⭐️ *Siempre abierta a colaborar en proyectos interesantes y desafiantes.*
 
----
