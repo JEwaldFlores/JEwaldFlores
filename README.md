@@ -23,10 +23,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nestjs,react,nextjs&perline=8" alt="stack-1"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,prisma,mongodb,express,python,git,github,docker&perline=8" alt="stack-2"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,express,git,github,docker&perline=8" alt="stack-2"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,railway,figma,stripe&perline=8" alt="stack-3"/>
+  <img src="https://skillicons.dev/icons?i=vercel,figma,stripe&perline=8" alt="stack-3"/>
 </p>
 
 
